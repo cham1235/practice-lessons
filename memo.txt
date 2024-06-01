@@ -1,0 +1,8 @@
+プロジェクト作成
+１．githubでプロジェクト作成（Add a README file => ローカルにファイルを作る。チェックしないと、GitHubだけで、作る。ローカルとGitHubのプロジェクト名が同じ。）
+    vscode設定（2方法）
+    　-　git clone
+    　-　git init…　GitHubにあるコマンド
+２．コマンドで　プロジェクト設定（npm create vite@latest...）
+３．Chakra UI 設定（Vite）
+４．Layout 設定　
