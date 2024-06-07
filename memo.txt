@@ -6,3 +6,14 @@
 ２．コマンドで　プロジェクト設定（npm create vite@latest...）
 ３．Chakra UI 設定（Vite）
 ４．Layout 設定　
+　　　-　Grid
+　　　-　GridItem
+　　　-　Show
+５．NavBar 作成
+　　　-　Logo 入れ(assets file に　logoの保管)
+　　　-　HStack　使用、Image
+６．サイトの色mode(theme.ts 作成)
+　　　-　chakra サイトに ColorMode => theme.ts, index.js(app.tsx に)（copy, paste）
+７．ColorModeSwitch　作成
+　　　-　Hook 使用
+　　　-　chakra サイトに ColorMode => useColorMode 参考
