@@ -1,0 +1,11 @@
+UI:
+ UI (User Interface) có nghĩa là giao diện người dùng.
+ UI bao gồm tất cả những gì người dùng có thể nhìn thấy (màu sắc, bố cục web, web/app sử dụng fonts chữ gì, hình ảnh trên web có hấp dẫn hay không,...)
+
+Chakra UI:
+ Là một thư viện thành phần đơn giản, module và có thể truy cập được, cung cấp tất cả các khối xây dựng bạn cần để xây dựng các ứng dụng React.
+
+Cấu trúc dữ liệu: Stack, queue
+ Stack(push, pop, length, peak)
+ queue(EnQueue, DeQueue, IsEmpty, Front)
+
