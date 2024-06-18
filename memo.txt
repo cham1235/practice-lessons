@@ -17,3 +17,9 @@
 ７．ColorModeSwitch　作成
 　　　-　Hook 使用
 　　　-　chakra サイトに ColorMode => useColorMode 参考
+８．Fetching the Games
+　　　-　service 作成、api-client 作成（APIのURLとapi keyを保管するため、axios使用）
+　　　-　api key のセキュリティーのため、.env　作成（gitignore に）
+　　　-　GameGrid component　作成（backend のコードcomponent）
+９．Custom Hook 作成
+１０．
