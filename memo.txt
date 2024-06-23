@@ -24,4 +24,7 @@
 ９．Custom Hook 作成, ゲームを取得するため
  　　 -　hooks の　ファイルを作成、useGame(バックエンドコードしか書かない)
 　　　-　GameGrid　フロントエンドのコードしか書かない
-１０．
+１０．Building Game Cards
+　　　-　GameCard component 作成
+　　　-　
+　　　-　
