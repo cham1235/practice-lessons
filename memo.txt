@@ -28,7 +28,6 @@
 　　　-　ゲームのbackgroundのinterface 追加
 　　　-　GameCard component 作成 (バックエンドコード)
 　　　-　表示コルムを設定する。
-　
 １１．Platform Icon 
 　　　-　react-icon インストール　（npm i react-icons@4.7.1）
 　　　-　Platformのinterface 追加　　　
