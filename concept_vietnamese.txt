@@ -10,21 +10,36 @@ Cấu trúc dữ liệu: Stack, queue
  queue(EnQueue, DeQueue, IsEmpty, Front)
 
 - HTMLはWebサイトを作成する際に、コンピューターへ構成指示を出し、表示したい文章や写真などの情報を形作ります。
+- Khi tạo một trang web, HTML sẽ gửi hướng dẫn cấu hình đến máy tính và tạo thành các thông tin như văn bản, hình ảnh mà bạn muốn hiển thị.
 
 - CSS（Cascading Style Sheets）とは、Webサイトのサイズや色、レイアウトなどを設定するためのプログラミング言語です。
 CSSは「シーエスエス」や「スタイルシート」などと呼ばれており、背景の色の変更や画像の設置、文字のフォントや色などの幅広いデザインを定義する際に使用されます。
+- CSS (Cascading Style Sheets) là ngôn ngữ lập trình để thiết lập kích thước, màu sắc, bố cục, v.v. của trang web.
+CSS được gọi là "CSS" hoặc "biểu định kiểu" và được sử dụng để xác định nhiều loại thiết kế như thay đổi màu nền, cài đặt hình ảnh cũng như phông chữ và màu sắc của văn bản.
 
 - HTMLとCSSの違い
 CSSにはHTMLで作られたページを装飾し、Webサイトの「見え方」を決める役割があります。
 HTML（Hyper Text Markup Language）は、Webページの構造や構成要素を作成する言語です。
+- Sự khác biệt giữa HTML và CSS
+CSS có vai trò trang trí các trang được tạo bằng HTML và xác định “diện mạo” của trang web.
+HTML (Ngôn ngữ đánh dấu siêu văn bản) là ngôn ngữ để tạo cấu trúc và thành phần của trang web.
 
 - Javascript: ユーザーのブラウザ上で動作し、Webサイトに動きをつけたり、ボタンなどの動作を制御したりできます。
-  • HTML：単なるテキストや画像からなるページに、「見出し」や「段落」といった、構造と意味を持たせるための言語です。マークアップ言語と呼ばれています。
-  • CSS：HTMLと組み合わせて使用し、「文字や背景の色」や「余白」といった、レイアウトやデザインを設定するための言語です。スタイルシート言語と呼ばれています。
+  • HTML：単なるテキストや画像からなるページに、「見出し」や「段落」といった、構造と意味を持たせるための言語です。(マークアップ言語)
+  • CSS：HTMLと組み合わせて使用し、「文字や背景の色」や「余白」といった、レイアウトやデザインを設定するための言語です。(スタイルシート言語)
   • JavaScript：「メッセージボックスの表示」や「HTMLコンテンツの操作」、「カレンダー」、「地図」、「ゲーム」など、様々な動的コンテンツを作成できる言語です。
 スクリプト言語と呼ばれています。
 「JavaScript」は、「HTML」や「CSS」が翻訳された後で実行されます。
+- Javascript: Chạy trên trình duyệt của người dùng và có thể thêm chuyển động vào các trang web và kiểm soát hoạt động của các nút, v.v.
+ • HTML: Ngôn ngữ để thêm cấu trúc và ý nghĩa, chẳng hạn như tiêu đề và đoạn văn, vào các trang bao gồm văn bản và hình ảnh đơn giản. (ngôn ngữ đánh dấu)
+ • CSS: Một ngôn ngữ được sử dụng kết hợp với HTML để thiết lập bố cục và thiết kế, chẳng hạn như ``màu văn bản và nền'' và ``lề.'' (ngôn ngữ bảng định kiểu)
+ • JavaScript: Ngôn ngữ cho phép bạn tạo nhiều nội dung động khác nhau như hiển thị hộp thông báo, thao tác nội dung HTML, lịch, bản đồ và trò chơi.
+Nó được gọi là ngôn ngữ kịch bản.
+"JavaScript" được thực thi sau khi dịch "HTML" và "CSS".
 
 - Typescript: JavaScriptを拡張して作られたプログラミング言語です。
 TypeScriptで書かれたコードをコンパイルするとJavaScriptのコードに変換されます。
 そのため、JavaScriptファイルが実行できる環境ならすぐに使えて、JavaScriptライブラリもTypeScriptから使用できるなど、互換性の高さが特徴です。
+- Typescript: Ngôn ngữ lập trình được tạo bằng cách mở rộng JavaScript.
+Khi bạn biên dịch mã viết bằng TypeScript, nó sẽ được chuyển đổi thành mã JavaScript.
+Do đó, nó có đặc điểm là có khả năng tương thích cao, chẳng hạn như có thể sử dụng ngay trong mọi môi trường có thể chạy tệp JavaScript và thư viện JavaScript cũng có thể được sử dụng từ TypeScript.
