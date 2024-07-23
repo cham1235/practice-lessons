@@ -11,7 +11,7 @@ import {
   FaAndroid,
 } from "react-icons/fa";
 import { HStack, Icon } from "@chakra-ui/react";
-import { Platform } from "../hooks/useGame";
+import { Platform } from "../hooks/usePlatforms";
 
 interface Props {
   platforms: Platform[];
@@ -29,6 +29,7 @@ const PlatformIconList = ({ platforms }: Props) => {
     ios: MdPhoneIphone,
     web: BsGlobe,
   };
+
   return (
     <>
       <HStack marginY={1}>
